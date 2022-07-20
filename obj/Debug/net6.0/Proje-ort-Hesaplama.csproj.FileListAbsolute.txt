@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\bin\Debug\net6.0\Proje-ort-Hesaplama.exe
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\bin\Debug\net6.0\Proje-ort-Hesaplama.deps.json
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\bin\Debug\net6.0\Proje-ort-Hesaplama.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\bin\Debug\net6.0\Proje-ort-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\bin\Debug\net6.0\Proje-ort-Hesaplama.pdb
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\refint\Proje-ort-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.pdb
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\Proje-ort-Hesaplama.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Proje-ort-Hesaplama\obj\Debug\net6.0\ref\Proje-ort-Hesaplama.dll
